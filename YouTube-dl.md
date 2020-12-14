@@ -32,4 +32,4 @@ Example: ffmpeg -s https://dqrpb9wgowsf5.cloudfront.net/b637e79f891b3bbd02d1_cri
 
 This starts the download from 7 hours into the video and stops 10 hours and 30 minutes into the video.
 
-This is how we scrapped the video data for this project.
+This is how we scrapped the video data for this project, rinse and repeat for however much data was needed. In the end, we scrapped about 16 hours worth of video.
