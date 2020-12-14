@@ -11,7 +11,7 @@ $ youtube-dl --list-formats https://www.twitch.tv/videos/832507786
 
 This returns a list of all the formats:
 
-![Alt text](https://github.com/JustinTienken-Harder/DeepLearningOfDynamics/blob/master/Images/README_Images/Screen%20Shot%202020-12-14%20at%204.20.18%20PM.png)
+![Alt text](https://github.com/JustinTienken-Harder/DeepLearningOfDynamics/blob/master/Images/README_Images/format_codes.png)
 
 From the above, we now choose a format, i.e. 360p, 480p, etc....:
 
